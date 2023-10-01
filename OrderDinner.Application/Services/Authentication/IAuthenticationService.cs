@@ -1,7 +1,7 @@
-namespace OrderDinner.Application.Service.Authentication;
+namespace OrderDinner.Application.Services.Authentication;
 
 public interface IAuthenticationService
 {
-    AuthenticationResponse Login(LoginRequest request);
-    AuthenticationResponse Response(RegisterRequest request);
+    AuthenticationResult Register(string firstName, string lastName, string email, string Password);
+    AuthenticationResult Login( string email, string Password);
 }

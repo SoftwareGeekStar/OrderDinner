@@ -28,3 +28,5 @@ D:\Projects\OrderDinner\OrderDinner.Api\bin\Debug\net6.0\OrderDinner.Contracts.p
 D:\Projects\OrderDinner\OrderDinner.Api\bin\Debug\net6.0\OrderDinner.Application.pdb
 D:\Projects\OrderDinner\OrderDinner.Api\bin\Debug\net6.0\OrderDinner.Infrustructure.pdb
 D:\Projects\OrderDinner\OrderDinner.Api\bin\Debug\net6.0\OrderDinner.Domain.pdb
+D:\Projects\OrderDinner\OrderDinner.Api\bin\Debug\net6.0\OrderDinner.Contracts.deps.json
+D:\Projects\OrderDinner\OrderDinner.Api\bin\Debug\net6.0\OrderDinner.Domain.deps.json
