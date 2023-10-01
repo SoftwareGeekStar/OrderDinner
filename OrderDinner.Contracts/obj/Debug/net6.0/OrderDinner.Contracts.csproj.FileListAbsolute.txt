@@ -1,0 +1,15 @@
+D:\Projects\OrderDinner\OrderDinner.Contracts\bin\Debug\net6.0\OrderDinner.Contracts.deps.json
+D:\Projects\OrderDinner\OrderDinner.Contracts\bin\Debug\net6.0\OrderDinner.Contracts.dll
+D:\Projects\OrderDinner\OrderDinner.Contracts\bin\Debug\net6.0\OrderDinner.Contracts.pdb
+D:\Projects\OrderDinner\OrderDinner.Contracts\obj\Debug\net6.0\OrderDinner.Contracts.csproj.AssemblyReference.cache
+D:\Projects\OrderDinner\OrderDinner.Contracts\obj\Debug\net6.0\OrderDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OrderDinner\OrderDinner.Contracts\obj\Debug\net6.0\OrderDinner.Contracts.AssemblyInfoInputs.cache
+D:\Projects\OrderDinner\OrderDinner.Contracts\obj\Debug\net6.0\OrderDinner.Contracts.AssemblyInfo.cs
+D:\Projects\OrderDinner\OrderDinner.Contracts\obj\Debug\net6.0\OrderDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\OrderDinner\OrderDinner.Contracts\obj\Debug\net6.0\OrderDinner.Contracts.dll
+D:\Projects\OrderDinner\OrderDinner.Contracts\obj\Debug\net6.0\refint\OrderDinner.Contracts.dll
+D:\Projects\OrderDinner\OrderDinner.Contracts\obj\Debug\net6.0\OrderDinner.Contracts.pdb
+D:\Projects\OrderDinner\OrderDinner.Contracts\obj\Debug\net6.0\ref\OrderDinner.Contracts.dll
+D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Contracts.deps.json
+D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Contracts.dll
+D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Contracts.pdb

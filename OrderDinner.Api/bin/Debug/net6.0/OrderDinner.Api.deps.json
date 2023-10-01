@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OrderDinner.Api/1.0.0": {
+        "dependencies": {
+          "OrderDinner.Application": "1.0.0",
+          "OrderDinner.Contracts": "1.0.0",
+          "OrderDinner.Infrustructure": "1.0.0"
+        },
+        "runtime": {
+          "OrderDinner.Api.dll": {}
+        }
+      },
+      "OrderDinner.Application/1.0.0": {
+        "dependencies": {
+          "OrderDinner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OrderDinner.Application.dll": {}
+        }
+      },
+      "OrderDinner.Contracts/1.0.0": {
+        "runtime": {
+          "OrderDinner.Contracts.dll": {}
+        }
+      },
+      "OrderDinner.Domain/1.0.0": {
+        "runtime": {
+          "OrderDinner.Domain.dll": {}
+        }
+      },
+      "OrderDinner.Infrustructure/1.0.0": {
+        "dependencies": {
+          "OrderDinner.Application": "1.0.0"
+        },
+        "runtime": {
+          "OrderDinner.Infrustructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderDinner.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderDinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderDinner.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderDinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderDinner.Infrustructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

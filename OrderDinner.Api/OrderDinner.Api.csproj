@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OrderDinner.Contracts\OrderDinner.Contracts.csproj" />
+    <ProjectReference Include="..\OrderDinner.Application\OrderDinner.Application.csproj" />
+    <ProjectReference Include="..\OrderDinner.Infrustructure\OrderDinner.Infrustructure.csproj" />
+  </ItemGroup>
+
+</Project>

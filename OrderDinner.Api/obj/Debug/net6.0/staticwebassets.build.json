@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N89HmYaHoAoGvage6pCHHIQ0yKmT90z+k7ypWlRkozc=",
+  "Source": "OrderDinner.Api",
+  "BasePath": "_content/OrderDinner.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

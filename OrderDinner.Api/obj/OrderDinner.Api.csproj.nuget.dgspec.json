@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\OrderDinner\\OrderDinner.Api\\OrderDinner.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\OrderDinner\\OrderDinner.Api\\OrderDinner.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\OrderDinner\\OrderDinner.Api\\OrderDinner.Api.csproj",
+        "projectName": "OrderDinner.Api",
+        "projectPath": "D:\\Projects\\OrderDinner\\OrderDinner.Api\\OrderDinner.Api.csproj",
+        "packagesPath": "C:\\Users\\engfm\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\OrderDinner\\OrderDinner.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\engfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\OrderDinner\\OrderDinner.Application\\OrderDinner.Application.csproj": {
+                "projectPath": "D:\\Projects\\OrderDinner\\OrderDinner.Application\\OrderDinner.Application.csproj"
+              },
+              "D:\\Projects\\OrderDinner\\OrderDinner.Contracts\\OrderDinner.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\OrderDinner\\OrderDinner.Contracts\\OrderDinner.Contracts.csproj"
+              },
+              "D:\\Projects\\OrderDinner\\OrderDinner.Infrustructure\\OrderDinner.Infrustructure.csproj": {
+                "projectPath": "D:\\Projects\\OrderDinner\\OrderDinner.Infrustructure\\OrderDinner.Infrustructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\OrderDinner\\OrderDinner.Application\\OrderDinner.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\OrderDinner\\OrderDinner.Application\\OrderDinner.Application.csproj",
+        "projectName": "OrderDinner.Application",
+        "projectPath": "D:\\Projects\\OrderDinner\\OrderDinner.Application\\OrderDinner.Application.csproj",
+        "packagesPath": "C:\\Users\\engfm\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\OrderDinner\\OrderDinner.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\engfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\OrderDinner\\OrderDinner.Domain\\OrderDinner.Domain.csproj": {
+                "projectPath": "D:\\Projects\\OrderDinner\\OrderDinner.Domain\\OrderDinner.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\OrderDinner\\OrderDinner.Contracts\\OrderDinner.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\OrderDinner\\OrderDinner.Contracts\\OrderDinner.Contracts.csproj",
+        "projectName": "OrderDinner.Contracts",
+        "projectPath": "D:\\Projects\\OrderDinner\\OrderDinner.Contracts\\OrderDinner.Contracts.csproj",
+        "packagesPath": "C:\\Users\\engfm\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\OrderDinner\\OrderDinner.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\engfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\OrderDinner\\OrderDinner.Domain\\OrderDinner.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\OrderDinner\\OrderDinner.Domain\\OrderDinner.Domain.csproj",
+        "projectName": "OrderDinner.Domain",
+        "projectPath": "D:\\Projects\\OrderDinner\\OrderDinner.Domain\\OrderDinner.Domain.csproj",
+        "packagesPath": "C:\\Users\\engfm\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\OrderDinner\\OrderDinner.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\engfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\OrderDinner\\OrderDinner.Infrustructure\\OrderDinner.Infrustructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\OrderDinner\\OrderDinner.Infrustructure\\OrderDinner.Infrustructure.csproj",
+        "projectName": "OrderDinner.Infrustructure",
+        "projectPath": "D:\\Projects\\OrderDinner\\OrderDinner.Infrustructure\\OrderDinner.Infrustructure.csproj",
+        "packagesPath": "C:\\Users\\engfm\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\OrderDinner\\OrderDinner.Infrustructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\engfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\OrderDinner\\OrderDinner.Application\\OrderDinner.Application.csproj": {
+                "projectPath": "D:\\Projects\\OrderDinner\\OrderDinner.Application\\OrderDinner.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\bin\Debug\net6.0\OrderDinner.Infrustructure.deps.json
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\bin\Debug\net6.0\OrderDinner.Infrustructure.dll
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\bin\Debug\net6.0\OrderDinner.Infrustructure.pdb
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\obj\Debug\net6.0\OrderDinner.Infrustructure.csproj.AssemblyReference.cache
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\obj\Debug\net6.0\OrderDinner.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\obj\Debug\net6.0\OrderDinner.Infrustructure.AssemblyInfoInputs.cache
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\obj\Debug\net6.0\OrderDinner.Infrustructure.AssemblyInfo.cs
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\obj\Debug\net6.0\OrderDinner.Infrustructure.csproj.CoreCompileInputs.cache
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\obj\Debug\net6.0\OrderDinner.Infrustructure.dll
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\obj\Debug\net6.0\refint\OrderDinner.Infrustructure.dll
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\obj\Debug\net6.0\OrderDinner.Infrustructure.pdb
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\obj\Debug\net6.0\ref\OrderDinner.Infrustructure.dll
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\bin\Debug\net6.0\OrderDinner.Application.dll
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\bin\Debug\net6.0\OrderDinner.Domain.dll
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\bin\Debug\net6.0\OrderDinner.Application.pdb
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\bin\Debug\net6.0\OrderDinner.Domain.pdb
+D:\Projects\OrderDinner\OrderDinner.Infrustructure\obj\Debug\net6.0\OrderDinner.Infrustructure.csproj.CopyComplete
