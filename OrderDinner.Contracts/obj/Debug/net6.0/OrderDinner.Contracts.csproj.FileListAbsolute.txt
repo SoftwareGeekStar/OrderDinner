@@ -1,3 +1,6 @@
+D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Contracts.deps.json
+D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Contracts.dll
+D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Contracts.pdb
 D:\Projects\OrderDinner\OrderDinner.Contracts\bin\Debug\net6.0\OrderDinner.Contracts.deps.json
 D:\Projects\OrderDinner\OrderDinner.Contracts\bin\Debug\net6.0\OrderDinner.Contracts.dll
 D:\Projects\OrderDinner\OrderDinner.Contracts\bin\Debug\net6.0\OrderDinner.Contracts.pdb
@@ -10,6 +13,3 @@ D:\Projects\OrderDinner\OrderDinner.Contracts\obj\Debug\net6.0\OrderDinner.Contr
 D:\Projects\OrderDinner\OrderDinner.Contracts\obj\Debug\net6.0\refint\OrderDinner.Contracts.dll
 D:\Projects\OrderDinner\OrderDinner.Contracts\obj\Debug\net6.0\OrderDinner.Contracts.pdb
 D:\Projects\OrderDinner\OrderDinner.Contracts\obj\Debug\net6.0\ref\OrderDinner.Contracts.dll
-D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Contracts.deps.json
-D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Contracts.dll
-D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Contracts.pdb

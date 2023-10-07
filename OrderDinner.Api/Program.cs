@@ -1,9 +1,9 @@
-using OrderDinner.Application.Services.Authentication;
+using OrderDinner.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 {
-    builder.Services.AddScoped<IAuthenticationService, AuthenticationService> ();
     builder.Services.AddControllers();
+    builder.Services.AddApplication();
 }
 
 var app = builder.Build();

@@ -1,3 +1,6 @@
+D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Domain.deps.json
+D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Domain.dll
+D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Domain.pdb
 D:\Projects\OrderDinner\OrderDinner.Domain\bin\Debug\net6.0\OrderDinner.Domain.deps.json
 D:\Projects\OrderDinner\OrderDinner.Domain\bin\Debug\net6.0\OrderDinner.Domain.dll
 D:\Projects\OrderDinner\OrderDinner.Domain\bin\Debug\net6.0\OrderDinner.Domain.pdb
@@ -10,6 +13,3 @@ D:\Projects\OrderDinner\OrderDinner.Domain\obj\Debug\net6.0\OrderDinner.Domain.d
 D:\Projects\OrderDinner\OrderDinner.Domain\obj\Debug\net6.0\refint\OrderDinner.Domain.dll
 D:\Projects\OrderDinner\OrderDinner.Domain\obj\Debug\net6.0\OrderDinner.Domain.pdb
 D:\Projects\OrderDinner\OrderDinner.Domain\obj\Debug\net6.0\ref\OrderDinner.Domain.dll
-D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Domain.deps.json
-D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Domain.dll
-D:\Projects\OrderDinner\orderdinner.api\OrderDinner.Domain.pdb

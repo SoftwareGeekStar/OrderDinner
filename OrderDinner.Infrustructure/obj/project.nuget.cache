@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "M6FkWVxm9v/1i2NhI4t7BUqlCtcvQcZXzI3trrvhCL9umPoZh3jZ4vS9+zeO8B/HmCqCbLtUfIRtDqmtH9bKDA==",
+  "dgSpecHash": "Xivb5jDZt1nt6lFLGQEmsE+gLCGNecj7rCIZ99r3qUImqlBQKX/QbNMijLCXMmrJkduzIU8zrJby/7jfoOWxaA==",
   "success": true,
   "projectFilePath": "D:\\Projects\\OrderDinner\\OrderDinner.Infrustructure\\OrderDinner.Infrustructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\engfm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
