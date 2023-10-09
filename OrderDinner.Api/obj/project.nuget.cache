@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "0+aJcx7JuTg5P//KiRX5tVgyWjMzqwhyvErGcb+d49nQFbd2GHk8qr7NWxqU/SWxrSUcYgSQ1dcLQ4Cyry/JAQ==",
+  "dgSpecHash": "OY11SAV2XFuaZFA5Dfk8x5gQV9LjWeyfMPl0OKY7vRtMINPJOCloSt5wc7HoIyGck6ghwxaJ3NxWY3/29aSNqg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\OrderDinner\\OrderDinner.Api\\OrderDinner.Api.csproj",
+  "projectFilePath": "D:\\Projects\\OrderDinner\\OrderDinner.api\\OrderDinner.Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\engfm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\engfm\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\engfm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\engfm\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.2\\microsoft.identitymodel.abstractions.7.0.2.nupkg.sha512",
+    "C:\\Users\\engfm\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.2\\microsoft.identitymodel.jsonwebtokens.7.0.2.nupkg.sha512",
+    "C:\\Users\\engfm\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.2\\microsoft.identitymodel.logging.7.0.2.nupkg.sha512",
+    "C:\\Users\\engfm\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.2\\microsoft.identitymodel.tokens.7.0.2.nupkg.sha512",
+    "C:\\Users\\engfm\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.2\\system.identitymodel.tokens.jwt.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }

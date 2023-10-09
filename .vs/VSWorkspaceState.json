@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OrderDinner.Application",
+    "\\OrderDinner.Application\\Common",
+    "\\OrderDinner.Application\\Common\\Interfaces",
+    "\\OrderDinner.Application\\Common\\Interfaces\\Authentication",
+    "\\OrderDinner.Infrustructure",
+    "\\OrderDinner.Infrustructure\\Authentication"
   ],
+  "SelectedNode": "\\OrderDinner.Application\\Common\\Interfaces\\Authentication\\IJwtTokenGenerator.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\OrderDinner\\OrderDinner.Api\\OrderDinner.Api.csproj": {}
+    "D:\\Projects\\OrderDinner\\OrderDinner.api\\OrderDinner.Api.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\OrderDinner\\OrderDinner.Api\\OrderDinner.Api.csproj": {
+    "D:\\Projects\\OrderDinner\\OrderDinner.api\\OrderDinner.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\OrderDinner\\OrderDinner.Api\\OrderDinner.Api.csproj",
+        "projectUniqueName": "D:\\Projects\\OrderDinner\\OrderDinner.api\\OrderDinner.Api.csproj",
         "projectName": "OrderDinner.Api",
-        "projectPath": "D:\\Projects\\OrderDinner\\OrderDinner.Api\\OrderDinner.Api.csproj",
+        "projectPath": "D:\\Projects\\OrderDinner\\OrderDinner.api\\OrderDinner.Api.csproj",
         "packagesPath": "C:\\Users\\engfm\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\OrderDinner\\OrderDinner.Api\\obj\\",
+        "outputPath": "D:\\Projects\\OrderDinner\\OrderDinner.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\engfm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -282,6 +282,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
